@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foodbot</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="next">Ďalej</string>
+    <string name="back_button">Späť</string>
+    <string name="refresh">Obnoviť</string>
+    <string name="recipe_detail">Detail receptu</string>
+    <string name="recipes">Recepty</string>
+    <string name="fridge">Chladnička</string>
+    <string name="shopping_list">Nákupný zoznam</string>
+    <string name="oops">Oops!</string>
+    <string name="no_foodplan_yet">Vyzerá, že ešte nemáš vytvorený jedálniček.</string>
+    <string name="please_generate_foodplan">Prosím, vytvor si najskôr jedálniček.</string>
+    <string name="generate_shopping_list">Vytvor nákupný zoznam</string>
+    <string name="search_recipe">Hľadať recept</string>
+    <string name="search">Hľadať</string>
+    <string name="no_image">Žiadny obrázok</string>
+    <string name="generate_foodplan">Vytvoriť jedálniček</string>
+    <string name="monday">Pondelok</string>
+    <string name="tuesday">Utorok</string>
+    <string name="wednesday">Streda</string>
+    <string name="thursday">Štvrtok</string>
+    <string name="friday">Piatok</string>
+    <string name="saturday">Sobota</string>
+    <string name="sunday">Nedeľa</string>
+    <string name="na">N/A</string>
+    <string name="ingredients">Ingrediencie</string>
+    <string name="steps">Postup</string>
+</resources>

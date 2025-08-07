@@ -1,0 +1,847 @@
+[
+  {
+    "id": 0,
+    "name": "Chipotle chicken & slaw",
+    "imageResId": "chipotle_chicken_slaw",
+    "ingredients": [
+      "1 tbsp rapeseed oil",
+      "2 tbsp chipotle paste",
+      "1½ tbsp honey",
+      "8 chicken drumsticks",
+      "1 lime, zested and juiced",
+      "1 small avocado, stoned",
+      "2 tbsp fat-free Greek yogurt",
+      "125g each red and white cabbage, both shredded",
+      "1 large carrot, cut into matchsticks",
+      "3 spring onions, sliced",
+      "4 corn on the cobs, steamed, to serve (optional)"
+    ],
+    "steps": [
+      "Heat the oven to 200C/180C fan/gas 6. Whisk the oil, chipotle paste and honey together in a large bowl. Add the chicken and toss to coat, then spread out on a non-stick baking tray. Roast for 30 mins, turning halfway through.",
+      "Put the lime zest and juice, avocado flesh, yogurt and a good pinch of salt into a blender and blitz until completely smooth. Put the sauce in a large bowl with the cabbage, carrot and spring onion and toss to combine.",
+      "Serve the drumsticks with the slaw and steamed corn, if you like."
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Roast chicken with squashed new potatoes & cheesy creamed spinach",
+    "imageResId": "roast_chicken_with_squashed_new_potatoes_cheesy_creamed_spinach",
+    "ingredients": [
+      "700g baby new potatoes",
+      "2 tbsp olive oil",
+      "1 lemon, zested",
+      "4 garlic cloves, whole and unpeeled",
+      "small bunch of  thyme, leaves picked and torn, plus a few small leaves to serve",
+      "4 bay leaves",
+      "chicken legs, including thighs and drumsticks",
+      "½ tsp  paprika",
+      "300g carrots, cooked, to serve",
+      "200g bag baby  spinach",
+      "knob of  butter",
+      "1 onion, chopped",
+      "2 garlic cloves, crushed",
+      "2 tbsp plain flour",
+      "300ml milk",
+      "generous grating of  nutmeg",
+      "20g mature cheddar, grated"
+    ],
+    "steps": [
+      "Heat the oven to 200C/180C fan/gas 6. Halve any large potatoes so they’re all roughly the same size. Put in a pan of water, bring to the boil and simmer for 8-10 mins until tender. Drain.",
+      "Tip the potatoes into a large roasting tray to sit in one snug layer. Drizzle with 1 tbsp oil, season and add the lemon zest, garlic, thyme and bay. Toss to coat the potatoes. Use a potato masher to gently crack each potato, being careful not to break them up too much. Place the chicken on top, rub with the rest of the oil and the paprika, then season. Roast for 45 mins until golden brown and cooked through.",
+      "Meanwhile, make the creamed spinach. Boil the kettle and tip the spinach into a colander. Pour over the boiling water to wilt the leaves. Leave to cool.",
+      "Heat the butter in a pan. Add the onion and cook for 8-10 mins until softened. Stir through the garlic for another minute, then the flour for another minute. Pour in the milk, a little at a time, stirring and adding more until you have a smooth sauce. Bring to a simmer and stir continuously until the sauce has thickened.",
+      "Squeeze any liquid out of the spinach, then roughly chop. Add to the sauce along with the nutmeg. Season to taste. Transfer to a baking dish, top with the cheese, and bake for 15 mins until golden.",
+      "Cover the chicken and rest for 5 mins. Set aside 2 legs to cool before chilling for lunch tomorrow. Serve the rest (1 full leg each per adult, a drumstick or thigh each for the children) with the potatoes and spinach alongside some carrots."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Spiced salmon & tomato traybake",
+    "imageResId": "spiced_salmon_tomato_traybake",
+    "ingredients": [
+      "1 red onion, sliced",
+      "200g cherry tomatoes",
+      "3 tbsp mild or madras  curry paste",
+      "400g can  chickpeas, drained and rinsed",
+      "2 skinless salmon fillets",
+      "1 large or 2 small  naan breads",
+      "2 tbsp fat-free  yogurt",
+      "lemon wedges and a few coriander leaves, to serve (optional)"
+    ],
+    "steps": [
+      "Heat the oven to 200C/180C fan/gas 6. Toss the onion, tomatoes, 2 tbsp curry paste, the chickpeas and 200ml water together in a deep 20 x 25cm roasting tin. Roast for 15 mins until the onions are tender and the tomatoes are just bursting.",
+      "Stir everything, then season. Brush the remaining curry paste over the salmon fillets and season. Nestle the salmon into the veg in the tin and roast for another 8-10 mins, or until cooked to your liking.",
+      "Meanwhile, warm the naan breads – you can do this by putting them directly on the oven rack below the roasting tin. Cut the warmed naan breads into wedges. Swirl the yogurt into the veg in the tin, then serve with the naan wedges for dunking, a few coriander leaves sprinkled over, if you like, and the lemon wedges, if using, for squeezing over."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Prawn tikka masala",
+    "imageResId": "prawn_tikka_masala",
+    "ingredients": [
+      "1 large onion, roughly chopped",
+      "1 thumb-sized piece ginger, peeled and grated",
+      "2 large garlic cloves",
+      "1 tbsp rapeseed oil",
+      "2-3 tbsp tikka curry paste",
+      "400g can chopped tomatoes",
+      "2 tbsp tomato purée",
+      "½ tbsp light brown soft sugar",
+      "3 cardamom pods, bashed",
+      "200g brown basmati rice",
+      "3 tbsp ground almonds",
+      "300g raw king prawns",
+      "1 tbsp double cream",
+      "½ bunch of coriander, roughly chopped",
+      "naan breads, warmed, to serve (optional)"
+    ],
+    "steps": [
+      "Put the onion, ginger and garlic in a food processor and blitz to a smooth paste. Heat the oil in a large flameproof casserole dish or pan over a medium heat. Add the onion paste and fry for 8 mins or until lightly golden. Stir in the curry paste and fry for 1 min more. Add the tomatoes, tomato purée, sugar and cardamom pods. Bring to a simmer and cook, covered, for another 10 mins.",
+      "Cook the rice following pack instructions.",
+      "Scoop the cardamom out of the curry sauce and discard, then blitz with a hand blender, or in a clean food processor. Return to the pan, add the almonds and prawns, and cook for 5 mins. Season to taste and stir through the cream and coriander. Serve with the rice and naan breads, if you like."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Fish & chip traybake",
+    "imageResId": "fish_chip_traybake",
+    "ingredients": [
+      "2 large sweet potatoes, cut into thin wedges",
+      "1 tbsp rapeseed oil",
+      "4 tbsp fat-free natural yogurt",
+      "2 tbsp low-fat mayonnaise",
+      "3 cornichons, finely chopped, plus 1 tbsp of the brine",
+      "1 shallot, finely chopped",
+      "1 tbsp finely chopped dill, plus extra to serve",
+      "300g frozen peas",
+      "50ml milk",
+      "1 tbsp finely chopped mint",
+      "4 cod or pollock loin fillets",
+      "1 lemon, cut into wedges, to serve"
+    ],
+    "steps": [
+      "Heat the oven to 220C/200C fan/gas 8. Toss the sweet potatoes with the oil and some seasoning on a baking tray. Roast for 20 mins.",
+      "Combine the yogurt, mayonnaise, cornichons and reserved brine, the shallot and dill with 1 tbsp cold water in a small bowl and set aside.",
+      "Meanwhile, put the peas in a pan with the milk, bring to a simmer and cook for 5 mins. Blitz the mixture using a hand blender until roughly puréed. Stir in the mint and season to taste. Set aside.",
+      "Add the cod or pollock to the baking tray with the sweet potatoes, season and cook for 10-15 mins more, or until cooked through. Warm through the pea mixture. Scatter over some dill and serve the traybake with the yogurt tartare and the mushy peas."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Roasted carrot & whipped feta tart",
+    "imageResId": "roasted_carrot_whipped_feta_tart",
+    "ingredients": [
+      "large bunch of carrots with tops (about 800g)",
+      "2 tsp olive oil",
+      "1 tsp za’atar",
+      "2 tsp honey",
+      "125-150ml extra virgin olive oil",
+      "2 garlic cloves, roughly chopped",
+      "50g walnuts, roughly chopped",
+      "40g grated parmesan or vegetarian hard cheese",
+      "25g parsley, roughly chopped, plus whole leaves to serve",
+      "200g feta drained and crumbled (vegetarian, if needed)",
+      "150g Greek yogurt",
+      "1 lemon, zested",
+      "500g block puff pastry",
+      "1 egg, beaten"
+    ],
+    "steps": [
+      "Heat the oven to 200C/180C fan/gas 6. Trim off the carrot tops, discarding any tough stems, then set aside. Halve the carrots lengthways, tip into a roasting tin and toss with the olive oil and some seasoning. Roast for 25-30 mins until tender and golden, stirring once or twice to ensure they don’t stick. Stir in the za’atar and honey, and set aside.",
+      "Meanwhile, tip the reserved carrot tops and extra virgin olive oil into a food processor. Season and blitz, scraping down the sides occasionally until finely chopped. Add the garlic, walnuts, parmesan and parsley, and pulse until combined. Pour in another splash of olive oil, if needed. Transfer to a bowl and season to taste. Clean out the food processor, then tip in the feta, yogurt, most of the lemon zest and some seasoning. Blitz until smooth and creamy.",
+      "Put a large baking tray in the oven to heat up. Roll the pastry out on a sheet of baking parchment into a roughly 40 x 30cm rectangle. Gently score a 2cm border around the edge using a sharp knife. Brush the beaten egg all over the pastry and sprinkle a large pinch of sea salt around the border. Carefully slide the pastry onto the hot baking tray using the parchment to help you, and bake for 15-20 mins until golden and puffed up. Remove from the oven and gently press the middle down using the back of a metal spoon. Cool for 5-10 mins, then spread the whipped feta over the middle and arrange the roasted carrots on top. Drizzle over the pesto, scatter over the parsley and the remaining lemon zest, and cut into slices to serve."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Broccoli pesto & pancetta pasta",
+    "imageResId": "broccoli_pesto_pancetta_pasta",
+    "ingredients": [
+      "300g head broccoli, broken into florets",
+      "300g pasta (we used orecchiette)",
+      "1 tbsp pine nuts",
+      "1 large bunch of basil",
+      "1 large garlic clove",
+      "2 tbsp parmesan, finely grated",
+      "1 tbsp olive oil",
+      "50g smoked pancetta, diced",
+      "200g cherry tomatoes, halved"
+    ],
+    "steps": [
+      "Bring a pan of lightly salted water to the boil. Add the broccoli and boil for 5 mins. Scoop out with a slotted spoon and set aside.",
+      "Put the pasta in the same pan and cook following pack instructions. Meanwhile, tip the broccoli into a food processor with the pine nuts, basil, garlic, parmesan and oil, and blitz until smooth. Season with black pepper and a little salt (the pancetta is very salty).",
+      "Set a frying pan over a medium heat and cook the pancetta for 2 mins. Add the tomatoes and cook for 3 mins, or until softened. Toss the pasta with the broccoli pesto, tomatoes and pancetta, and loosen with a splash of pasta water, if needed. Spoon into bowls and serve."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Thai noodle soup with salmon",
+    "imageResId": "thai_noodle_soup_with_salmon",
+    "ingredients": [
+      "4 salmon fillets, skin left on",
+      "200g dried flat rice noodles",
+      "125g red Thai curry paste",
+      "2 x 400ml cans light coconut milk",
+      "2 pak choi (about 250g), leaves separated"
+    ],
+    "steps": [
+      "Heat the grill to high. Put the salmon on a baking tray, skin-side down, and grill for 8-10 mins until cooked through. Put the noodles in a heatproof bowl and pour over boiled water from the kettle. Leave for 5 mins.",
+      "Heat the curry paste in a pan for 1 min, then add the coconut milk and 400ml water. Season and bring to the boil. Drain the noodles and add to the pan with the pak choi. Heat through for 1 min, then transfer to bowls and top with the salmon."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Veggie yaki udon",
+    "imageResId": "veggie_yaki_udon",
+    "ingredients": [
+      "1½ tbsp sesame oil",
+      "1 red onion, cut into thin wedges",
+      "160g mangetout",
+      "70g baby corn, halved",
+      "2 baby pak choi, quartered",
+      "3 spring onions, sliced",
+      "1 large garlic clove, crushed",
+      "½ tbsp mild curry powder, or use 1 tsp garam masala",
+      "4 tsp low-salt soy sauce",
+      "300g ready-to-cook udon noodles",
+      "1 tbsp pickled sushi ginger, chopped, plus 2 tbsp of the brine, optional"
+    ],
+    "steps": [
+      "Heat the oil in a non-stick frying pan or wok over a high heat. Add the onion and fry for 5 mins. Stir in the mangetout, corn, pak choi and spring onions and cook for 5 mins more. Add the garlic, curry powder and soy sauce, and cook for another minute.",
+      "Add the udon noodles along with the ginger (if using) and reserved brine, and stir in 2-3 tbsp hot water until the noodles are heated through. Divide between bowls and serve."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Whole baked fish with fennel, chilli & lemongrass",
+    "imageResId": "whole_baked_fish_with_fennel_chilli_lemongrass",
+    "ingredients": [
+      "2 large Maris Piper or Désirée potatoes, thinly sliced",
+      "1 large fennel bulb, thinly sliced through the roots",
+      "1 tbsp vegetable oil, plus extra for the fish",
+      "4 garlic cloves, grated",
+      "45g palm sugar or light brown soft sugar",
+      "75ml fish sauce",
+      "75ml lime juice (from about 5 limes), plus slices to serve",
+      "small handful of coriander, leaves picked and roughly torn, stalks finely chopped",
+      "2 large mackerel (about 700g each), cleaned and gutted (sea bass or bream also work well)",
+      "2 lemongrass stalks, bashed and broken in half",
+      "3 spring onions, thinly sliced diagonally",
+      "1 red chilli, thinly sliced"
+    ],
+    "steps": [
+      "Heat the oven to 200C/180C fan/gas 4. Line a large, high-sided roasting tin with baking parchment, then arrange the potato and fennel slices in the tray, layering them in overlapping rows alternately until they cover the whole tin and doubling up the layers if you have leftover slices. Season with salt. Brush over the vegetable oil, then roast for 15 mins, or until the edges of the veg have started to crisp up and caramelise.",
+      "Meanwhile, combine the garlic, palm or brown sugar, fish sauce, lime juice, coriander stalks and 75ml hot water in a small bowl.",
+      "Lightly season the inside and outside of the fish with salt, then put the lemongrass inside the cavities. Brush the fish lightly with oil. Remove the veg from the oven and lay the fish on top. Pour a little of the sauce inside each cavity, then the rest over the skin. Cover with foil and bake for 15 mins until the fish is nearly cooked and the flesh flakes easily.",
+      "Remove the foil for the final 10 mins of cooking. Heat the grill to high. Slide the fish under the hot grill briefly until the skin has browned and blistered. Scatter over the coriander leaves, spring onions, chilli and lime slices, then serve."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Chicory cups with avocado & pink grapefruit salsa",
+    "imageResId": "chicory_cups_with_avocado_pink_grapefruit_salsa",
+    "ingredients": [
+      "1 large ripe avocado",
+      "1 pink grapefruit",
+      "1 red chilli,  finely chopped (deseeded, if you like)",
+      "handful of coriander, finely chopped",
+      "splash of olive oil",
+      "1 lime, juiced",
+      "2 chicory heads"
+    ],
+    "steps": [
+      "Scoop out the avocado flesh, cut into small cubes and put into a bowl. Using a serrated knife, cut the skin and pith away from the grapefruit, then segment over the bowl to catch all the juices. Cut the segments into cubes the same size as the avocado and add to the bowl.",
+      "Add the chilli and coriander and season the salsa with olive oil, salt, black pepper and lime juice to taste. The salsa can be made two hours in advance and kept covered in the fridge.",
+      "To serve, separate the larger chicory leaves, then finely chop the core and stir through the salsa. Spoon the salsa into each chicory leaf cup and place on a platter to serve."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Ravioli lasagne",
+    "imageResId": "ravioli_lasagne",
+    "ingredients": [
+      "oil, for frying",
+      "6 sausages (we used Italian sausages with herbs and fennel)",
+      "2 x 400g cans chopped tomatoes with garlic & basil",
+      "200g baby spinach",
+      "500g spinach & ricotta ravioli (or any flavour you like)",
+      "75g mixture of grated cheddar and mozzarella"
+    ],
+    "steps": [
+      "Heat a drizzle of oil in a pan. Squeeze the sausagemeat from the skins and fry until browned, using a wooden spoon to break it up. Add the tomatoes and half a can of water and season. Simmer for 20 mins.",
+      "Meanwhile, put the spinach in a colander. Pour over boiled water from the kettle to wilt. Leave to cool, then squeeze out as much of the excess water as you can.",
+      "Heat the oven to 200C/180C fan/gas 6. Spoon a third of the sauce into a medium baking dish (about 18 x 20cm). Top with a third of the spinach and a third of the ravioli, then scatter over some of the cheese. Repeat the layers twice, making sure the final layer of ravioli is nestled into the sauce. Bake for 35-40 mins until bubbling and hot all the way through. Cover if the top starts to get too dark. Will keep in the freezer for up to two months."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Mexican-style stuffed peppers",
+    "imageResId": "mexican_style_stuffed_peppers",
+    "ingredients": [
+      "3 large mixed peppers, halved",
+      "oil, for drizzling",
+      "2 x 250g pouches lime & coriander rice, cooked",
+      "400g can black beans, drained and rinsed",
+      "6 Mexican-style chilli cheese slices (use regular cheddar or monterey jack, if you like)",
+      "150g fresh guacamole"
+    ],
+    "steps": [
+      "Heat the oven to 220C/200C fan/gas 7. Remove the seeds and any white pith from the peppers and arrange, cut-side up, in a roasting tin. Drizzle with oil and season, then bake for 20 mins.",
+      "Combine the rice and beans. Remove the peppers from the oven and fill with the rice mixture. Top each with a slice of cheese and bake for 10-15 mins more, until the rice has melted and the filling is hot. Top with spoonfuls of guacamole."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Chicken, leek & brown rice stir-fry",
+    "imageResId": "chicken_leek_brown_rice_stir_fry",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "250g chicken breast, thinly sliced",
+      "100g chorizo, chopped",
+      "1 leek, halved lengthways and finely sliced",
+      "1 red pepper, deseeded and chopped",
+      "80g kale, any tough stalks removed, leaves roughly chopped",
+      "1 tbsp low salt soy sauce",
+      "1 tbsp red wine vinegar",
+      "2 x 250g pouches microwave wholegrain rice"
+    ],
+    "steps": [
+      "Heat the oil in a frying pan over a high heat and fry the chicken for 3 mins. Stir in the chorizo and cook for 2 mins more until the chicken is light golden and the chorizo has released its fat. Scoop the chicken and chorizo into a bowl using a slotted spoon, leaving as much oil in the pan as you can. Set aside.",
+      "Tip the leek and red pepper into the pan and cook for 2 mins, stirring frequently until slightly softened. Add the kale and fry for 1 min more until the leaves have just started to wilt at the edges.",
+      "Drizzle in the soy sauce and vinegar and scatter in the rice, breaking up any large chunks with a wooden spoon. Stir the chicken and chorizo back into the pan and toss everything together to combine. Cook for 3 mins until the rice is heated through, then serve."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Piri-piri chicken with smashed sweet potatoes & broccoli",
+    "imageResId": "piri_piri_chicken_with_smashed_sweet_potatoes_broccoli",
+    "ingredients": [
+      "3 large sweet potatoes (about 900g), peeled and cut into large chunks",
+      "oil, for drizzling",
+      "6-8 chicken thighs, skin left on",
+      "2 red onions, cut into wedges",
+      "25g sachet piri-piri spice mix (or a mild version, if you like)",
+      "300g long-stem broccoli"
+    ],
+    "steps": [
+      "Heat the oven to 180C/160C fan/gas 4. Toss the sweet potatoes with a generous drizzle of oil and some seasoning, and tip into a very large roasting tin. Push the potatoes to one end of the tin, then, in the other end, toss the chicken with the onions, spice mix, a drizzle of oil and some seasoning. Roast for 40 mins, stirring everything halfway through. Add the broccoli to the tin, drizzle with a little oil and season, then roast for 10-15 mins more.",
+      "Remove the chicken, onions and broccoli from the tin. Roughly mash the potatoes using a fork, making sure you incorporate all the chicken juices and spices from the pan. Spread the mash over the base of the tin, then top with the broccoli, chicken and onions and serve from the tin in the middle of the table."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Healthy salmon bowl",
+    "imageResId": "healthy_salmon_bowl",
+    "ingredients": [
+      "1 tsp rapeseed oil",
+      "2 tsp finely chopped ginger",
+      "1 large garlic clove, finely chopped",
+      "1 pepper (any colour), deseeded and finely chopped",
+      "2 fresh or frozen wild salmon fillets (about 80g each; defrosted if frozen)",
+      "250g pouch cooked brown rice",
+      "4 spring onions, finely sliced",
+      "1 small avocado, peeled, halved, stoned and sliced",
+      "80g cucumber, halved lengthways and sliced",
+      "chilli sauce to serve (optional)",
+      "4 tbsp kefir",
+      "1 tsp white miso paste",
+      "1 tsp honey"
+    ],
+    "steps": [
+      "Heat the oil in a large non-stick pan or deep frying pan with a lid over a medium heat and cook the ginger, garlic and pepper for 2 mins, covered. Stir, then put the salmon on top, cover again and cook for 5 mins until the fish is cooked through.",
+      "Meanwhile, mix the dressing ingredients together in a small bowl. Squeeze the pouch of rice to separate the grains, then tip the contents into a small pan with 2 tbsp water. Cover and cook for 2 mins.",
+      "Stir the spring onions into the rice mixture along with half the dressing. Spoon into two bowls. Remove the skin from the salmon and flake the fish on top of the rice. Top with the pepper, avocado and cucumber, then drizzle over the remaining dressing and some chilli sauce, if using."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Creamy pesto & kale pasta",
+    "imageResId": "creamy_pesto_kale_pasta",
+    "ingredients": [
+      "1 tbsp rapeseed oil",
+      "2 red onions, thinly sliced",
+      "300g kale",
+      "300g wholemeal  pasta (penne or mafalda work well)",
+      "4 tbsp reduced-fat soft cheese",
+      "4 tbsp fresh or jar pesto, or vegetarian alternative"
+    ],
+    "steps": [
+      "Heat the oil in a large pan over a medium heat. Fry the onions for 10 mins until softened and beginning to caramelise. Add the kale and 100ml water, then cover and cook for 5 mins more, or until the kale has wilted.",
+      "Cook the pasta following pack instructions. Drain, reserving a little of the cooking water. Toss the pasta with the onion mixture, soft cheese and pesto, adding a splash of the reserved cooking water to loosen, if needed. Season."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Creamy salmon, leek & potato traybake",
+    "imageResId": "creamy_salmon_leek_potato_traybake",
+    "ingredients": [
+      "250g baby potatoes, thickly sliced",
+      "2 tbsp olive oil",
+      "1 leek, halved, washed and sliced",
+      "1 garlic clove, crushed",
+      "70ml double cream",
+      "1 tbsp capers, plus extra to serve",
+      "1 tbsp chives, plus extra to serve",
+      "2 skinless salmon fillets",
+      "mixed rocket salad, to serve (optional)"
+    ],
+    "steps": [
+      "Heat the oven to 200C/180C fan/gas 6. Bring a medium pan of water to the boil. Add the potatoes and cook for 8 mins. Drain and leave to steam-dry in a colander for a few minutes. Toss the potatoes with ½ of the oil and plenty of seasoning in a baking tray. Put in the oven for 20 mins, tossing halfway through the cooking time.",
+      "Meanwhile, heat the remaining oil in a frying pan over a medium heat. Add the leek and fry for 5 mins, or until beginning to soften. Stir through the garlic for 1 min, then add the cream, capers and 75ml hot water, then bring to the boil. Stir through the chives.",
+      "Heat the grill to high. Pour the creamy leek mixture over the potatoes, then sit the salmon fillets on top. Grill for 7-8 mins, or until just cooked through. Serve topped with extra chives and capers and a salad on the side, if you like."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Punjabi partha",
+    "imageResId": "punjabi_partha",
+    "ingredients": [
+      "3 aubergines",
+      "120ml vegetable oil",
+      "2 medium onions, halved and thinly sliced",
+      "1 garlic clove, crushed",
+      "227g can tomatoes",
+      "2 green chillies, finely diced",
+      "1 tsp garam masala",
+      "roti (see recipe below), to serve"
+    ],
+    "steps": [
+      "Char the skin of the aubergines over the flame of a gas hob, under the grill or on a barbecue, using flameproof tongs. Put them in a bowl of cold water for 2 mins, then peel off the skin. Cut off the aubergine stems and slice into small pieces. Set aside.",
+      "Heat the oil in a medium saucepan over a medium-low heat, then add the onions. Cook until soft and golden brown, about 10 mins. Stir in the garlic and cook for a few seconds. Blitz the tomatoes to a smooth sauce in a food processor, then tip into the pan. Cook for 2 mins, then add 1 tsp salt, the chillies and garam masala. Cook for 2 mins more.",
+      "Add the aubergines to the sauce and cook over a low heat for 15 mins, then use a spoon to crush the aubergine to a pulp. Cook for a further 15 mins, adding a little water if it becomes too dry. Serve with roti (see recipe, below)."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Smoky steak with Cajun potatoes & spicy slaw",
+    "imageResId": "smoky_steak_with_cajun_potatoes_spicy_slaw",
+    "ingredients": [
+      "430g Maris Piper potatoes, cut into 1.5cm chunks",
+      "1 tbsp Cajun seasoning",
+      "2 tbsp olive oil",
+      "1 x 400g bavette steak",
+      "¼ small bunch of coriander, finely chopped",
+      "¼ small red cabbage, shredded",
+      "½ red onion, finely sliced",
+      "2 tbsp mayonnaise",
+      "1 tbsp soured cream",
+      "½ tbsp chipotle chilli paste"
+    ],
+    "steps": [
+      "Heat the oven to 220C/200C fan/gas 7. Bring a large pan of salted water to the boil, add the potatoes and cook for 5 mins. Drain and leave to steam-dry in the colander for a few minutes. Toss the potatoes with the Cajun seasoning, half the oil and a good pinch of salt. Tip onto a baking tray and roast for 25-30 mins or until golden and crisp, tossing halfway through.",
+      "To make the slaw, combine the cabbage, onion, mayonnaise, soured cream and chipotle paste in a bowl until the cabbage and onion are well coated. Set aside.",
+      "Rub the steak with the remaining oil and season both sides. Heat a griddle pan or non-stick frying pan over a high heat until very hot. Add the steak to the pan, cook for 2 mins on one side, then 3 mins on the other. Remove, put on a chopping board, cover with foil and leave to rest for 5 mins. Slice into strips.",
+      "Serve the steak with the potatoes scattered with the coriander and a pile of the spicy slaw."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Gnocchi cacio e pepe",
+    "imageResId": "gnocchi_cacio_e_pepe",
+    "ingredients": [
+      "300g gnocchi",
+      "2 tbsp unsalted butter",
+      "60g parmesan or vegetarian alternative, finely grated",
+      "2 tsp black pepper",
+      "salad leaves, to serve (optional)"
+    ],
+    "steps": [
+      "Cook the gnocchi in a large pan of lightly salted, boiling water. Drain and reserve 200ml of the cooking water.",
+      "Heat the butter in a large frying pan. Add the gnocchi, cheese and pepper as well as 150ml of the cooking water, raise the heat a little and stir vigorously until melted and the gnocchi is well coated. Pour in more of the reserved water if you like it saucier. Season with a little salt. Transfer the gnocchi to bowls and serve with a mixed salad, if you like."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Pork souvlaki",
+    "imageResId": "pork_souvlaki",
+    "ingredients": [
+      "400g lean pork shoulder, cut into 2cm chunks",
+      "1 tbsp olive oil",
+      "½ tbsp dried oregano",
+      "1 lemon, zested and juiced",
+      "½ tsp hot paprika",
+      "100ml fat-free yogurt",
+      "1 small garlic clove, grated",
+      "½ cucumber, trimmed and grated",
+      "2 red peppers, deseeded and cut into chunks",
+      "2 Little Gem lettuce, leaves separated",
+      "chilli sauce, to serve (optional)",
+      "flatbreads, warmed, to serve (optional)"
+    ],
+    "steps": [
+      "Put the pork in a large bowl with the oil, oregano, lemon zest and juice and paprika as well as a good pinch of salt. Toss everything together to combine and leave to marinate for 10 mins.",
+      "Combine the yogurt, garlic and cucumber together in a bowl. Season with salt and set aside.",
+      "Heat the grill to high. Thread the marinated pork and the peppers on four metal skewers, alternating between the pork and peppers as you go. Place on a non-stick baking sheet and grill for 3-4 mins on each side, or until cooked through and golden brown.",
+      "Serve with the lettuce, yogurt mixture and chilli sauce, and flatbreads, if you like."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Feel-good pasta soup",
+    "imageResId": "feel_good_pasta_soup",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, chopped",
+      "3 rosemary sprigs, chopped",
+      "3 large garlic cloves, crushed",
+      "2 tbsp tomato purée",
+      "pinch of chilli flakes, plus extra to serve (optional)",
+      "400g can chopped tomatoes",
+      "2 x 400g cans  chickpeas, drained",
+      "150g short pasta, such as tubetti or macaroni",
+      "1 vegetable or chicken stock cube",
+      "25g parmesan, pecorino or vegetarian-style hard cheese, grated, plus a rind if you have one (see tip, below)",
+      "150g kale, spinach or cavolo nero, tough stalks removed and roughly  chopped",
+      "1 lemon, zested, plus a squeeze of juice",
+      "2 tbsp extra virgin olive oil"
+    ],
+    "steps": [
+      "Heat the oil in a large, deep pan over a medium heat. Add the onion and cook for about 5 mins, or until it turns translucent. Stir in the rosemary and garlic and sizzle for another minute, stirring to ensure the garlic doesn’t burn. Add the tomato purée and a pinch of chilli flakes, if using. Stir and cook for a couple of minutes.",
+      "Stir in the tomatoes, chickpeas and pasta. Crumble in the stock cube, add the parmesan rind, if using, and pour in 1 litre water. Season and stir, bring to a simmer and cook for 8 mins, or until the pasta is nearly cooked.",
+      "Add the kale, spinach, or cavolo nero to the pan, stirring until the leaves wilt, this should take just a few minutes. It should look soupy at this point, if the broth has thickened too much, add a little extra water. Add the lemon zest and half the grated parmesan, taste the broth and add a squeeze of lemon, pinch of chilli or a little more salt if needed.",
+      "Ladle into bowls, discarding the cheese rind. Top with the remaining grated cheese, another sprinkling of chilli flakes, if you like, and drizzle with the extra virgin olive oil."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Prawn tikka masala",
+    "imageResId": "prawn_tikka_masala",
+    "ingredients": [
+      "1 large onion, roughly chopped",
+      "1 thumb-sized piece ginger, peeled and grated",
+      "2 large garlic cloves",
+      "1 tbsp rapeseed oil",
+      "2-3 tbsp tikka curry paste",
+      "400g can chopped tomatoes",
+      "2 tbsp tomato purée",
+      "½ tbsp light brown soft sugar",
+      "3 cardamom pods, bashed",
+      "200g brown basmati rice",
+      "3 tbsp ground almonds",
+      "300g raw king prawns",
+      "1 tbsp double cream",
+      "½ bunch of coriander, roughly chopped",
+      "naan breads, warmed, to serve (optional)"
+    ],
+    "steps": [
+      "Put the onion, ginger and garlic in a food processor and blitz to a smooth paste. Heat the oil in a large flameproof casserole dish or pan over a medium heat. Add the onion paste and fry for 8 mins or until lightly golden. Stir in the curry paste and fry for 1 min more. Add the tomatoes, tomato purée, sugar and cardamom pods. Bring to a simmer and cook, covered, for another 10 mins.",
+      "Cook the rice following pack instructions.",
+      "Scoop the cardamom out of the curry sauce and discard, then blitz with a hand blender, or in a clean food processor. Return to the pan, add the almonds and prawns, and cook for 5 mins. Season to taste and stir through the cream and coriander. Serve with the rice and naan breads, if you like."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Bean & halloumi stew",
+    "imageResId": "bean_halloumi_stew",
+    "ingredients": [
+      "3 tbsp olive oil",
+      "1 onion, thinly sliced",
+      "1 red pepper, thinly sliced",
+      "2 garlic cloves, crushed",
+      "3 tbsp red chilli pesto, sundried tomato pesto or vegan alternative",
+      "1 heaped tsp ground coriander",
+      "400g can mixed beans, drained and rinsed",
+      "400g can chopped tomatoes",
+      "½ x 250g block halloumi, sliced",
+      "½ small bunch of coriander, finely chopped",
+      "garlic bread, to serve (optional)"
+    ],
+    "steps": [
+      "Heat 2 tbsp of oil in a frying pan over a medium heat. Add the onion and pepper, along with a pinch of salt and fry for 10 mins or until softened. Add the garlic, pesto and ground coriander, and cook for 1 min. Tip in the beans and tomatoes along with ½ can of water, then bring to a simmer and cook uncovered for 10 mins.",
+      "Add the remaining oil to a separate frying pan over a medium heat. Fry the halloumi for 2 mins on each side or until golden brown.",
+      "Taste the beans for seasoning, then spoon into deep bowls. Top with the halloumi and scatter over the chopped coriander. Serve with garlic bread, if you like."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Sausage & kale minestrone",
+    "imageResId": "sausage_kale_minestrone",
+    "ingredients": [
+      "1 tbsp vegetable oil",
+      "1 red onion, finely chopped",
+      "3 sausages, skins removed",
+      "2 garlic cloves, finely grated",
+      "½-1 red chilli, depending on how much heat you prefer, sliced",
+      "½ large head of broccoli, finely chopped",
+      "2 courgettes, sliced into half-moons",
+      "200g small pasta (we used ditalini)",
+      "1½ litres chicken stock, made with low-salt chicken stock cube",
+      "200g curly kale or cavolo nero, stalks removed, roughly chopped",
+      "1 lemon, zested and juiced",
+      "20g parmesan, shaved"
+    ],
+    "steps": [
+      "Heat the oil over a medium heat in a large, deep pot that has a lid. Cook the onion for 10 mins until softened and golden at the edges.",
+      "Crumble in the sausages, breaking them into bite-sized pieces using a spoon. Cook for 7-8 mins until golden and crisp. Stir in the garlic and chilli.",
+      "Add the broccoli and courgettes. Cook for 10-12 mins until soft, then pour in the pasta and chicken stock. Stir to combine, then bring to a boil. Reduce to a simmer, put the lid on and cook for 8-10 mins, until the pasta is almost cooked.",
+      "Wilt in the kale or cavolo nero in batches and cook for a further 2-3 mins, until the kale is cooked and the pasta is al dente. Squeeze in the lemon juice and season well. Divide between four bowls and sprinkle over the lemon zest and parmesan shavings to serve."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Creamy tofu curry with homemade roti",
+    "imageResId": "creamy_tofu_curry_with_homemade_roti",
+    "ingredients": [
+      "400g firm tofu",
+      "2 tbsp cornflour",
+      "4 tbsp vegetable oil",
+      "5 tbsp tikka or madras paste",
+      "2 white onions, thinly sliced",
+      "1 tbsp tomato purée",
+      "500g tomato passata",
+      "200g creamed coconut",
+      "15g coriander, roughly chopped (optional)",
+      "100g plain or wholemeal flour, plus extra for dusting",
+      "1 tsp vegetable oil"
+    ],
+    "steps": [
+      "Heat the oven to 230C/210C fan/gas 8. Drain the tofu on kitchen paper and slice in half horizontally, patting it as you go to absorb as much moisture as possible. Tear the tofu into chunks, tip into a bowl and toss to coat in the cornflour, 1 tbsp of the vegetable oil and ½ tsp salt. Spread out on a baking sheet and bake in the oven for 25 mins.",
+      "Using the same bowl, make the roti. Mix the flour, a pinch of salt and the oil together with enough water (about 65ml) to make a soft, not sticky, dough. Knead on a floured surface for 3 mins, then cover and leave to rest while you make the sauce.",
+      "Heat the remaining 3 tbsp oil in a frying pan over a medium heat and cook the tikka paste until fragrant, about 1 min. Add the onions and cook for 4-5 mins, adding a splash of water if needed to prevent any sticking, then cover and cook until completely softened (about 8-10 mins more), stirring occasionally.",
+      "Add the tomato purée, passata and a pinch of salt. Simmer for a further 5 mins before adding the creamed coconut. Reduce the heat to low while you make the roti. Loosen the sauce occasionally with a splash of water if it’s starting to look too thick.",
+      "Divide the roti mixture into four equal balls. Roll the balls out on a floured surface using a floured rolling pin until 2-3mm thick. Heat a dry frying pan until very hot, then cook each roti for 1 min on each side until charred in places. Wrap in a tea towel as they come off the heat to keep them soft.",
+      "Remove the tofu from the baking tray and stir into the sauce to coat before sprinkling with coriander and serving with the roti."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Spicy tortilla soup",
+    "imageResId": "spicy_tortilla_soup",
+    "ingredients": [
+      "2 tbsp vegetable oil",
+      "1 red onion, finely chopped",
+      "3 garlic cloves, finely chopped",
+      "1 tsp cumin",
+      "pinch of  chilli powder",
+      "1½ tbsp chipotle paste",
+      "700ml low-salt chicken stock",
+      "3 chicken thighs (from a 640g pack, save the rest for the pulled chicken – freeze the chicken if you’re not using it within 24 hours)",
+      "2 tortilla wraps, cut into triangles",
+      "390g can pinto beans, drained",
+      "195g can sweetcorn, drained",
+      "1 lime, 1⁄2 zested and juiced",
+      "3 tbsp low-fat natural yogurt or soured cream, to serve",
+      "15g coriander, roughly chopped, or leaves picked",
+      "1 red chilli, sliced (optional)"
+    ],
+    "steps": [
+      "Heat 1 tbsp of the oil in a large, lidded saucepan over a medium heat. Add the red onion and a pinch of salt and cook for 8-10 mins until softened. Add the garlic, cumin, chilli powder and chipotle paste and cook for 2-3 mins until fragrant.",
+      "Pour in the stock and scrape up any caramelised bits from the bottom of the pan. Bring to the boil, then add the chicken thighs and simmer for 20-25 mins with the lid on until cooked through.",
+      "While the chicken cooks, heat the oven or air-fryer to 200C/190C fan/gas 6. Drizzle the remaining 1 tbsp oil over the tortilla triangles. Spread out on a lined baking tray or the air-fryer basket in a single layer (you may need to do this in batches), season, then bake for 7-8 mins, until golden brown and crisp. Leave to cool on the tray while you finish the soup. Reserve half of the tortilla chips for the pulled chicken bowl. Will keep in an airtight container for three days.",
+      "Once the chicken is cooked, remove from the soup using a slotted spoon and shred using two forks. Pour the pinto beans and sweetcorn into the pan and cook for 5 mins, or until warmed through. Add the chicken back to the soup, then season with salt, pepper, half the lime juice and all of the zest.",
+      "Divide between two bowls, spoon a little yogurt on top, then sprinkle with the coriander and sliced chilli, if using. Sprinkle over the tortilla chips and serve with the remaining halved lime cut into wedges for squeezing over. The soup will keep chilled for three days."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Creamy salmon, leek & potato traybake",
+    "imageResId": "creamy_salmon_leek_potato_traybake",
+    "ingredients": [
+      "250g baby potatoes, thickly sliced",
+      "2 tbsp olive oil",
+      "1 leek, halved, washed and sliced",
+      "1 garlic clove, crushed",
+      "70ml double cream",
+      "1 tbsp capers, plus extra to serve",
+      "1 tbsp chives, plus extra to serve",
+      "2 skinless salmon fillets",
+      "mixed rocket salad, to serve (optional)"
+    ],
+    "steps": [
+      "Heat the oven to 200C/180C fan/gas 6. Bring a medium pan of water to the boil. Add the potatoes and cook for 8 mins. Drain and leave to steam-dry in a colander for a few minutes. Toss the potatoes with ½ of the oil and plenty of seasoning in a baking tray. Put in the oven for 20 mins, tossing halfway through the cooking time.",
+      "Meanwhile, heat the remaining oil in a frying pan over a medium heat. Add the leek and fry for 5 mins, or until beginning to soften. Stir through the garlic for 1 min, then add the cream, capers and 75ml hot water, then bring to the boil. Stir through the chives.",
+      "Heat the grill to high. Pour the creamy leek mixture over the potatoes, then sit the salmon fillets on top. Grill for 7-8 mins, or until just cooked through. Serve topped with extra chives and capers and a salad on the side, if you like."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Creamy garlic pasta",
+    "imageResId": "creamy_garlic_pasta",
+    "ingredients": [
+      "300g tagliatelle (any long pasta will work)",
+      "20g salted butter",
+      "6 garlic cloves, finely chopped",
+      "2 tbsp plain flour",
+      "150ml chicken stock",
+      "200ml double cream",
+      "85g parmesan, grated",
+      "20g flat-leaf parsley, roughly chopped"
+    ],
+    "steps": [
+      "Begin by cooking the pasta following pack instructions. Meanwhile, melt the butter in your largest frying pan. Once foaming, add the garlic and 25 twists of a black pepper mill. Cook for 4-5 mins, until the garlic is light golden and fragrant.",
+      "Stir in the flour to form a paste. Stir for 1-2 mins, then slowly whisk in the chicken stock until you have a smooth sauce. Pour in the double cream and sprinkle in most of the parmesan. Stir until everything is melted and combined, then season to taste.",
+      "Transfer the pasta straight into the sauce, alongside a good splash of the cooking water. Mix thoroughly, adding a little more pasta water if necessary, until you have a thick and glossy sauce.",
+      "Divide between four bowls and serve topped with the chopped parsley and remaining parmesan."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Noodles with crispy tofu",
+    "imageResId": "noodles_with_crispy_tofu",
+    "ingredients": [
+      "300g firm tofu, patted dry and sliced into 2cm cubes",
+      "2 tbsp cornflour",
+      "250g medium egg noodles",
+      "1 tbsp vegetable oil",
+      "2 spring onions, sliced",
+      "½ - 1 red chilli, finely chopped",
+      "15g ginger, finely grated",
+      "3 garlic cloves, finely grated",
+      "1 ½ tsp Chinese five-spice powder",
+      "½ large head of  broccoli, finely chopped",
+      "2 red peppers, sliced",
+      "200g frozen peas",
+      "2 tbsp light soy sauce",
+      "1 tbsp crispy chilli oil, plus extra to serve (optional)",
+      "10g coriander, chopped",
+      "1 lime, juiced"
+    ],
+    "steps": [
+      "Heat the oven or air-fryer to 220C/200C fan/gas 7. Toss the tofu and cornflour together in a large bowl and season. Tip onto a lined baking tray and spread out to an even layer (or do this in the basket of your air-fryer) and cook for 15-20 mins until crisp and golden.",
+      "Meanwhile, cook the noodles following pack instructions, then rinse well in cold water so they don’t clump together.",
+      "While the noodles are cooking, add the oil to a large frying pan over high heat. Once shimmering, stir-fry the spring onions, chilli, ginger and garlic for 2-3mins. Sprinkle in the Chinese five-spice and stir to combine, then add the broccoli, peppers and peas.",
+      "Cook for 10-12 mins, stirring regularly, until softened and charring at the edges. Stir in the cooked noodles, soy sauce, chilli oil, coriander and half the lime juice, tossing to combine (it’s easier to use two wooden spoons). Toss the crispy tofu with the other half of the lime juice. Divide the noodles between four bowls and top with the crispy tofu. Serve with extra crispy chilli oil, if you like."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Fish pie mac ’n’ cheese",
+    "imageResId": "fish_pie_mac_n_cheese",
+    "ingredients": [
+      "650ml milk",
+      "40g plain flour",
+      "40g butter",
+      "2 tsp Dijon mustard",
+      "150g mature  cheddar, grated",
+      "180g frozen peas",
+      "handful of  parsley, chopped",
+      "300g macaroni",
+      "300g fish pie mix (smoked fish, white fish and salmon)",
+      "green salad, to serve (optional)"
+    ],
+    "steps": [
+      "Pour the milk into a large pan and add the flour and butter. Set over a medium heat and whisk continuously until you have a smooth, thick white sauce. Remove from the heat, add the mustard, most of the cheese (save a handful for the top), peas and parsley.",
+      "Meanwhile, boil the pasta in a large pan of water following pack instructions until just cooked. Drain.",
+      "Heat the oven to 200C/180C fan/gas 6. Tip the pasta into the sauce and add half the fish, stir everything together then tip into a large baking dish. Top with the rest of the fish, pushing it into the pasta a little, then scatter with the remaining cheese. Bake for 30 mins until golden, then serve with salad, if you like. Can be chilled and eaten within three days or frozen for up to a month. Defrost in the fridge, then reheat in a microwave or oven until piping hot."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Broccoli stem falafel bowl",
+    "imageResId": "broccoli_stem_falafel_bowl",
+    "ingredients": [
+      "2 pittas, cut into small triangles",
+      "50g pumpkin or sunflower seeds",
+      "1 tbsp olive or rapeseed oil",
+      "pinch of cumin seeds",
+      "pinch of chilli flakes",
+      "160g baby spinach or other soft green salad leaves",
+      "200g cooked grains of your choice (we used quinoa)",
+      "2 carrots, finely shredded or grated",
+      "2 baby cucumbers, sliced, or 1⁄4 large cucumber, chopped",
+      "2 tsp honey or maple syrup",
+      "1 raw broccoli stalk  (about 100g), quartered lengthways and sliced",
+      "400g can chickpeas, drained",
+      "½ tsp baking powder",
+      "2 tsp ground cumin, plus a pinch",
+      "1 tsp ground coriander",
+      "2 garlic cloves",
+      "1 lemon, zested",
+      "small bunch of  parsley, roughly chopped, reserving a few whole leaves to serve",
+      "flavourless oil, for rolling and the baking tray",
+      "400g can chickpeas",
+      "100g cooked beetroot, drained",
+      "1 garlic clove",
+      "2 tbsp tahini",
+      "2 tbsp extra virgin olive oil or rapeseed oil",
+      "squeeze of lemon juice",
+      "1 tbsp tahini",
+      "2 tsp honey or maple syrup",
+      "½ lemon, juiced",
+      "3 tbsp extra virgin olive oil or rapeseed oil"
+    ],
+    "steps": [
+      "First, make the falafel. Put all the ingredients in a food processor, except the oil, and season well. Blitz to a paste, scraping down the sides of the bowl a couple of times until you have a smooth mixture. Lightly oil a dessertspoon and your hands. Scoop a little of the falafel mixture into your hands, then roll into a ball the size of a large cherry tomato. Flatten gently into a disc – the mixture will feel quite soft at this stage. Repeat to make 12 falafel in total, then put on a plate and keep chilled until you’re ready to serve. Will keep chilled for up to 24 hrs.",
+      "To make the hummus, drain the chickpeas, reserving the liquid from the can, then tip into a blender along with a splash of the reserved liquid, the beetroot, garlic, tahini, oil, lemon juice and 1 tsp sea salt. Blitz to a smooth purée, adding more of the reserved chickpea liquid if the purée is too thick. Set aside in the fridge with the falafel. Will keep chilled for up to two days.",
+      "Toss the pitta triangles and pumpkin seeds with the oil, cumin seeds and chilli flakes, then spread out on a baking tray and bake at 200C/180C fan/gas 6 for 8-10 mins until crisp and toasted. Or, do this in an air-fryer at 200C, tossing the mixture halfway through.",
+      "Line a baking tray with parchment (or cut a piece to fit the basket of your air-fryer), brush the parchment with a little oil and arrange the falafel on the tray. Cook for 12-15 mins, turning halfway through, until crisp and golden. Once cool, the falafel will keep chilled or for up to two days – they will firm up as they cool. Reheat or eat cold.",
+      "Mix all the ingredients for the dressing together. Divide the spinach between four shallow bowls or plates, and top with the grains (reheat these if you like, or serve cold), then the carrots, cucumbers, pitta chips and falafel. Generously spoon the hummus into the bowls, then drizzle over the dressing and sprinkle over the roasted pumpkin seeds and a few whole parsley to serve."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "One-pot cheeseburger pasta",
+    "imageResId": "one_pot_cheeseburger_pasta",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 large onion, chopped",
+      "500g minced beef",
+      "2 tomatoes, chopped",
+      "1 tbsp Worcestershire sauce",
+      "500ml warm beef stock",
+      "300g fusilli or other pasta shape",
+      "100ml milk",
+      "125g mature cheddar, coarsely grated, plus extra to serve",
+      "1 tbsp mustard",
+      "1 tbsp ketchup, plus extra to serve",
+      "50-70g pickles, chopped",
+      "sliced dill pickles and/or jalapeños, to serve"
+    ],
+    "steps": [
+      "Heat the oil in a large lidded saucepan over a medium heat. Fry the onion for 3 mins, then add the mince and cook for a further 5 mins until lightly browned.",
+      "Add the tomatoes and Worcestershire sauce and cook for 2 mins until the tomatoes are pulpy and starting to soften. Pour in the stock and bring to the boil.",
+      "Stir in the pasta, then cover and cook for 10-12 mins until the pasta is tender and the liquid has mostly been absorbed, adding a splash of water if needed.",
+      "Pour in the milk and stir in 100g of the cheese, stirring until melted. Check the seasoning and transfer to a serving dish or bowls. Drizzle with mustard and ketchup, then scatter with the remaining cheese, pickles and jalapeños and a good grinding of black pepper. Serve with more ketchup on the side."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Meatball & tomato soup",
+    "imageResId": "meatball_tomato_soup",
+    "ingredients": [
+      "1½ tbsp rapeseed oil",
+      "1 onion, finely chopped",
+      "2 red peppers, deseeded and sliced",
+      "1 garlic clove, crushed",
+      "½ tsp chilli flakes",
+      "2 x 400g cans chopped tomatoes",
+      "100g giant couscous",
+      "500ml hot vegetable stock",
+      "12 pork meatballs",
+      "150g baby spinach",
+      "½ small bunch of basil",
+      "grated parmesan, to serve (optional)"
+    ],
+    "steps": [
+      "Heat the oil in a saucepan. Fry the onion and peppers for 7 mins, then stir through the garlic and chilli flakes and cook for 1 min. Add the tomatoes, giant couscous and veg stock and bring to a simmer.",
+      "Season to taste, then add the meatballs and spinach. Simmer for 5-7 mins or until cooked through. Ladle into bowls and top with the basil and some parmesan, if you like."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Black bean & tortilla soup",
+    "imageResId": "black_bean_tortilla_soup",
+    "ingredients": [
+      "2 tbsp olive oil",
+      "1 chopped onion",
+      "2 chopped peppers",
+      "3 crushed garlic cloves",
+      "2 tsp ground cumin",
+      "1 tsp garlic granules",
+      "1 tsp chilli powder",
+      "2 tbsp tomato purée",
+      "1l veg stock",
+      "400g can chopped tomatoes",
+      "2 tbsp cornmeal or polenta",
+      "2 tbsp chopped pickled jalapeños",
+      "2 x 400g cans  black beans",
+      "jalapeño brine",
+      "4 small corn tortillas",
+      "chopped coriander, avocado, crumbled feta and pumpkin seeds, to serve, if you like"
+    ],
+    "steps": [
+      "Heat the olive oil in a deep pan over a medium heat. Add the onion, peppers (any colour you like) and garlic cloves with a big pinch of salt. Cook for 10 mins, until starting to soften, then add the ground cumin, garlic granules and chilli powder along with the tomato purée. Cook for 5 mins, until the purée has caramelised.",
+      "Pour in the veg stock, chopped tomatoes, cornmeal or polenta, chopped pickled jalapeños and black beans, along with the liquid. Add a splash of jalapeño brine and bring to a simmer. Cook for 45 mins, until thickened and reduced. Season, then scatter in the corn tortillas, cut into small strips. (Use flour tortillas if that’s what you have.) Rest for 5 mins before serving. Serve with chopped coriander, avocado, crumbled feta and pumpkin seeds, if you like."
+    ]
+  }
+]

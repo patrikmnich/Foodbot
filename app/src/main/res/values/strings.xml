@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Foodbot</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="back_button">Back</string>
+    <string name="refresh">Refresh</string>
+    <string name="recipe_detail">Recipe detail</string>
+    <string name="recipes">Recipes</string>
+    <string name="fridge">Fridge</string>
+    <string name="shopping_list">Shopping list</string>
+    <string name="oops">Oops!</string>
+    <string name="no_foodplan_yet">Looks like you don\'t have a foodplan yet.</string>
+    <string name="please_generate_foodplan">Please generate a foodplan first.</string>
+    <string name="generate_shopping_list">Generate shopping list</string>
+    <string name="search_recipe">Search recipe</string>
+    <string name="search">Search</string>
+    <string name="no_image">No image</string>
+    <string name="generate_foodplan">Generate foodplan</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="na">N/A</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+    <plurals name="cupcakes">
+        <item quantity="one">%d cupcake</item>
+        <item quantity="other">%d cupcakes</item>
+    </plurals>
+</resources>
