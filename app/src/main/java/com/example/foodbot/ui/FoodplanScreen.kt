@@ -33,6 +33,7 @@ import com.example.foodbot.database.entities.Foodplan
 import com.example.foodbot.database.entities.Recipe
 import com.example.foodbot.ui.components.RecipeListItem
 import com.example.foodbot.ui.theme.FoodbotTheme
+import com.example.foodbot.utils.Day
 
 @Composable
 fun FoodplanScreen(
@@ -81,7 +82,7 @@ fun FoodplanScreen(
                         contentAlignment = Alignment.Center
                     ) {
                         Text(
-                            text = selectedDay.day,
+                            text = context.getString(Day.getRes(selectedDay.id)),
                             style = MaterialTheme.typography.titleMedium.copy(fontWeight = FontWeight.Bold)
                         )
                     }

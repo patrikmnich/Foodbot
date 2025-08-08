@@ -23,11 +23,13 @@ data class Recipe(
 
     @ColumnInfo(name = "ingredients")
     @SerializedName("ingredients")
-    val ingredients: List<String>,
+    val ingredients: List<String>, // TODO: toto treba upravit, rozdelit to na ingredienciu samotnu a mnozstvo
 
     @ColumnInfo(name = "steps")
     @SerializedName("steps")
     val steps: List<String>,
+
+    //TODO: pridat kategoriu (ranajky, obed vecera), alergeny alebo
 
 ) {
     companion object {

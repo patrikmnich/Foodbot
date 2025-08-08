@@ -12,6 +12,6 @@ enum class Day(val index: Int, val resId: Int) {
     SUNDAY(6, R.string.sunday);
 
     companion object {
-        fun getRes(index: Int): Int? = entries.firstOrNull { index == it.index }?.resId
+        fun getRes(index: Int): Int = entries.first { index == it.index }.resId
     }
 }

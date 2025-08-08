@@ -3,24 +3,16 @@ package com.example.foodbot.ui
 import android.content.Context
 import android.util.Log
 import androidx.lifecycle.ViewModel
-import com.example.foodbot.R
 import com.example.foodbot.database.dao.FoodplanDao
 import com.example.foodbot.database.dao.RecipesDao
 import com.example.foodbot.database.entities.Foodplan
 import com.example.foodbot.database.entities.Recipe
 import com.example.foodbot.database.model.FoodplanDay
-import com.example.foodbot.utils.Day
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import javax.inject.Inject
-
-/** Price for a single cupcake */
-private const val PRICE_PER_CUPCAKE = 2.00
-
-/** Additional cost for same day pickup of an order */
-private const val PRICE_FOR_SAME_DAY_PICKUP = 3.00
 
 /**
  * [AppViewModel] holds information about a foodplan.
@@ -65,10 +57,9 @@ class AppViewModel @Inject constructor(
 
         val foodplayDays = mutableListOf<FoodplanDay>()
         for (i in 0 until 7) {
-            val day = context.getString(Day.getRes(i) ?: R.string.na) // TODO: zmenit na ID alebo to riesit pri zobrazovani priamo
             foodplayDays.add(FoodplanDay(
                 i,
-                listOf(recipes.random(), recipes.random(), recipes.random(), recipes.random(), recipes.random())
+                listOf(recipes.random(), recipes.random(), recipes.random(), recipes.random(), recipes.random()) // TODO: pridat realne recepty a generovanie
             ))
         }
 

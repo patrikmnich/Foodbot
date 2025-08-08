@@ -5,7 +5,6 @@ import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
 import com.example.foodbot.database.entities.Foodplan
-import com.example.foodbot.database.entities.Recipe
 
 @Dao
 interface FoodplanDao {
