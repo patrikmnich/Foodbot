@@ -30,6 +30,7 @@ import androidx.navigation.compose.rememberNavController
 import com.example.foodbot.database.entities.Recipe
 import com.example.foodbot.ui.AppViewModel
 import com.example.foodbot.ui.FoodplanScreen
+import com.example.foodbot.ui.NewRecipeScreen
 import com.example.foodbot.ui.RecipeDetailScreen
 import com.example.foodbot.ui.RecipesScreen
 import com.example.foodbot.ui.ShoppingListScreen
@@ -163,10 +164,11 @@ fun FoodbotApp(
             composable(route = Destination.Recipes.name) {
                 RecipesScreen(
                     recipes = recipes,
-                    onNextButtonClicked = { recipe ->
+                    onRecipeClicked = { recipe ->
                         viewModel.setSelectedSearchRecipe(recipe)
                         navController.navigate(Destination.RecipeDetailSearch.name)
                     },
+                    onFabClicked = { navController.navigate(Destination.NewRecipe.name) },
                     modifier = Modifier
                         .fillMaxSize(),
                     context = localizedContext,
@@ -175,6 +177,13 @@ fun FoodbotApp(
             composable(route = Destination.RecipeDetailSearch.name) {
                 RecipeDetailScreen(
                     recipe = searchRecipe.value!!,
+                    modifier = Modifier.fillMaxHeight(),
+                    context = localizedContext,
+                )
+            }
+            composable(route = Destination.NewRecipe.name) {
+                NewRecipeScreen(
+                    onAddButtonClicked = { navController.navigate(Destination.NewRecipe.name) },
                     modifier = Modifier.fillMaxHeight(),
                     context = localizedContext,
                 )

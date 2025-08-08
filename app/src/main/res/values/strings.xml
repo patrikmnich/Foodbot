@@ -26,6 +26,8 @@
     <string name="na">N/A</string>
     <string name="ingredients">Ingredients</string>
     <string name="steps">Steps</string>
+    <string name="new_recipe">New recipe</string>
+    <string name="add_recipe">Add recipe</string>
     <plurals name="cupcakes">
         <item quantity="one">%d cupcake</item>
         <item quantity="other">%d cupcakes</item>

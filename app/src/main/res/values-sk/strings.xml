@@ -27,4 +27,6 @@
     <string name="na">N/A</string>
     <string name="ingredients">Ingrediencie</string>
     <string name="steps">Postup</string>
+    <string name="new_recipe">Nový recept</string>
+    <string name="add_recipe">Pridať recept</string>
 </resources>

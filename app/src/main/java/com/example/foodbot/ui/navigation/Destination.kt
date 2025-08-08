@@ -21,6 +21,7 @@ enum class Destination(
     ShoppingList(title = R.string.shopping_list, icon = Icons.Default.ShoppingCart),
     RecipeDetailFoodplan(title = R.string.recipe_detail),
     RecipeDetailSearch(title = R.string.recipe_detail),
+    NewRecipe(title = R.string.new_recipe),
 }
 
 val topLevelDestinations = setOf(
