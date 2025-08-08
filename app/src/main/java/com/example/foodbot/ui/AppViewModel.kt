@@ -27,9 +27,6 @@ class AppViewModel @Inject constructor(
         private val TAG = AppViewModel::class.simpleName.toString()
     }
 
-    /**
-     * Cupcake state for this order
-     */
     private val _foodplanState: MutableStateFlow<Foodplan?> = MutableStateFlow(null)
     val foodplanState: StateFlow<Foodplan?> = _foodplanState.asStateFlow()
 
@@ -49,7 +46,15 @@ class AppViewModel @Inject constructor(
         _selectedSearchRecipeState.value = recipe
     }
 
-    suspend fun getFoodplan(): Foodplan? = foodplanDao.get()
+    suspend fun fetchFoodplan() {
+        _foodplanState.value = foodplanDao.get()
+    }
+
+    suspend fun checkFoodplanExpiration() {
+        _foodplanState.value?.let { foodplan ->
+
+        }
+    }
 
     suspend fun generateFoodplan(context: Context) {
         Log.e(TAG, "Generating foodplan")
@@ -63,7 +68,9 @@ class AppViewModel @Inject constructor(
             ))
         }
 
-        val foodplan = Foodplan(0, foodplayDays)
+        val timestamp = System.currentTimeMillis()
+
+        val foodplan = Foodplan(0, foodplayDays, timestamp)
         foodplanDao.insert(foodplan)
         _foodplanState.value = foodplan
     }

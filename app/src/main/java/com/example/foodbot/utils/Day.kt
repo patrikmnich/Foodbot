@@ -1,6 +1,7 @@
 package com.example.foodbot.utils
 
 import com.example.foodbot.R
+import java.time.DayOfWeek
 
 enum class Day(val index: Int, val resId: Int) {
     MONDAY(0, R.string.monday),
@@ -13,5 +14,17 @@ enum class Day(val index: Int, val resId: Int) {
 
     companion object {
         fun getRes(index: Int): Int = entries.first { index == it.index }.resId
+
+        fun getFromDayOfWeek(day: DayOfWeek): Day {
+            return when (day) {
+                DayOfWeek.MONDAY -> MONDAY
+                DayOfWeek.TUESDAY -> TUESDAY
+                DayOfWeek.WEDNESDAY -> WEDNESDAY
+                DayOfWeek.THURSDAY -> THURSDAY
+                DayOfWeek.FRIDAY -> FRIDAY
+                DayOfWeek.SATURDAY -> SATURDAY
+                DayOfWeek.SUNDAY -> SUNDAY
+            }
+        }
     }
 }

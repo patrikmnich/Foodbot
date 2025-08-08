@@ -16,13 +16,17 @@ data class Foodplan(
     @SerializedName("foodplan_days")
     val days: List<FoodplanDay>,
 
+    @ColumnInfo(name = "timestamp")
+    val timestamp: Long,
+
     )  {
     companion object {
         const val TABLE_NAME = "FOODPLAN"
 
         fun example() = Foodplan(
             id = 0,
-            days = List(7) { FoodplanDay.example() }
+            days = List(7) { FoodplanDay.example() },
+            timestamp = 0L
         )
     }
 }

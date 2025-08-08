@@ -1,7 +1,6 @@
 package com.example.foodbot.database
 
 import android.content.Context
-import android.util.Log
 import androidx.room.Database
 import androidx.room.Room.databaseBuilder
 import androidx.room.RoomDatabase
@@ -66,14 +65,16 @@ object ApplicationDatabaseModule {
             DB_NAME
         )
 
-        val recipes = parseRecipes<Recipe>(loadJsonFromFile(context, "recipes.json"))
-        Log.e("provideDatabase", "PARSING RECIPES: ${recipes.size}")
-
         val db = builder.build()
             .apply {
-            CoroutineScope(Dispatchers.IO).launch {
-                recipesDao().insertAll(recipes)
-            }
+                // insert default recipes if db is created for the first time
+                if (!dbFile.exists()) {
+                    val recipes = parseRecipes<Recipe>(loadJsonFromFile(context, "recipes.json"))
+
+                    CoroutineScope(Dispatchers.IO).launch {
+                        recipesDao().insertAll(recipes)
+                    }
+                }
         }
 
         return db

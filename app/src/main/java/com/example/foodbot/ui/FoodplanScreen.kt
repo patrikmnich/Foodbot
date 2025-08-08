@@ -34,6 +34,7 @@ import com.example.foodbot.database.entities.Recipe
 import com.example.foodbot.ui.components.RecipeListItem
 import com.example.foodbot.ui.theme.FoodbotTheme
 import com.example.foodbot.utils.Day
+import java.time.LocalDate
 
 @Composable
 fun FoodplanScreen(
@@ -55,7 +56,7 @@ fun FoodplanScreen(
     } else {
 
         val pagerState = rememberPagerState(
-            initialPage = 0,
+            initialPage = Day.getFromDayOfWeek(LocalDate.now().dayOfWeek).index,
             initialPageOffsetFraction = 0F,
             pageCount = { foodplan.days.size }
         )

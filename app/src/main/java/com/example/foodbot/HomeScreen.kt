@@ -125,7 +125,7 @@ fun FoodbotApp(
         LaunchedEffect(Unit) {
             recipes = viewModel.getAllRecipes()
 
-            viewModel.getFoodplan()
+            viewModel.fetchFoodplan()
             Log.e("HOME", "Foodplan: $foodplan")
         }
 
