@@ -29,4 +29,12 @@
     <string name="steps">Postup</string>
     <string name="new_recipe">Nový recept</string>
     <string name="add_recipe">Pridať recept</string>
+    <string name="breakfast">Raňajky</string>
+    <string name="morning_snack">Desiata</string>
+    <string name="lunch">Obed</string>
+    <string name="afternoon_snack">Olovrant</string>
+    <string name="dinner">Večera</string>
+    <string name="recipe_name">Názov receptu</string>
+    <string name="add_photo">Pridať fotku</string>
+    <string name="add_more">Pridať ďalšie</string>
 </resources>

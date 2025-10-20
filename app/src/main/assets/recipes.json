@@ -2,6 +2,7 @@
   {
     "id": 0,
     "name": "Chipotle chicken & slaw",
+	"types": [ "LUNCH" ],
     "imageResId": "chipotle_chicken_slaw",
     "ingredients": [
       "1 tbsp rapeseed oil",
@@ -25,6 +26,7 @@
   {
     "id": 1,
     "name": "Roast chicken with squashed new potatoes & cheesy creamed spinach",
+	"types": [ "LUNCH" ],
     "imageResId": "roast_chicken_with_squashed_new_potatoes_cheesy_creamed_spinach",
     "ingredients": [
       "700g baby new potatoes",
@@ -57,6 +59,7 @@
   {
     "id": 2,
     "name": "Spiced salmon & tomato traybake",
+	"types": [ "LUNCH" ],
     "imageResId": "spiced_salmon_tomato_traybake",
     "ingredients": [
       "1 red onion, sliced",
@@ -77,6 +80,7 @@
   {
     "id": 3,
     "name": "Prawn tikka masala",
+	"types": [ "LUNCH" ],
     "imageResId": "prawn_tikka_masala",
     "ingredients": [
       "1 large onion, roughly chopped",
@@ -104,6 +108,7 @@
   {
     "id": 4,
     "name": "Fish & chip traybake",
+	"types": [ "LUNCH" ],
     "imageResId": "fish_chip_traybake",
     "ingredients": [
       "2 large sweet potatoes, cut into thin wedges",
@@ -129,6 +134,7 @@
   {
     "id": 5,
     "name": "Roasted carrot & whipped feta tart",
+	"types": [ "LUNCH" ],
     "imageResId": "roasted_carrot_whipped_feta_tart",
     "ingredients": [
       "large bunch of carrots with tops (about 800g)",
@@ -155,6 +161,7 @@
   {
     "id": 6,
     "name": "Broccoli pesto & pancetta pasta",
+	"types": [ "LUNCH" ],
     "imageResId": "broccoli_pesto_pancetta_pasta",
     "ingredients": [
       "300g head broccoli, broken into florets",
@@ -176,6 +183,7 @@
   {
     "id": 7,
     "name": "Thai noodle soup with salmon",
+	"types": [ "LUNCH" ],
     "imageResId": "thai_noodle_soup_with_salmon",
     "ingredients": [
       "4 salmon fillets, skin left on",
@@ -192,6 +200,7 @@
   {
     "id": 8,
     "name": "Veggie yaki udon",
+	"types": [ "LUNCH" ],
     "imageResId": "veggie_yaki_udon",
     "ingredients": [
       "1½ tbsp sesame oil",
@@ -214,6 +223,7 @@
   {
     "id": 9,
     "name": "Whole baked fish with fennel, chilli & lemongrass",
+	"types": [ "LUNCH" ],
     "imageResId": "whole_baked_fish_with_fennel_chilli_lemongrass",
     "ingredients": [
       "2 large Maris Piper or Désirée potatoes, thinly sliced",
@@ -239,6 +249,7 @@
   {
     "id": 10,
     "name": "Chicory cups with avocado & pink grapefruit salsa",
+	"types": [ "LUNCH" ],
     "imageResId": "chicory_cups_with_avocado_pink_grapefruit_salsa",
     "ingredients": [
       "1 large ripe avocado",
@@ -258,6 +269,7 @@
   {
     "id": 11,
     "name": "Ravioli lasagne",
+	"types": [ "LUNCH" ],
     "imageResId": "ravioli_lasagne",
     "ingredients": [
       "oil, for frying",
@@ -276,6 +288,7 @@
   {
     "id": 12,
     "name": "Mexican-style stuffed peppers",
+	"types": [ "LUNCH" ],
     "imageResId": "mexican_style_stuffed_peppers",
     "ingredients": [
       "3 large mixed peppers, halved",
@@ -293,6 +306,7 @@
   {
     "id": 13,
     "name": "Chicken, leek & brown rice stir-fry",
+	"types": [ "LUNCH" ],
     "imageResId": "chicken_leek_brown_rice_stir_fry",
     "ingredients": [
       "1 tbsp olive oil",
@@ -314,6 +328,7 @@
   {
     "id": 14,
     "name": "Piri-piri chicken with smashed sweet potatoes & broccoli",
+	"types": [ "LUNCH" ],
     "imageResId": "piri_piri_chicken_with_smashed_sweet_potatoes_broccoli",
     "ingredients": [
       "3 large sweet potatoes (about 900g), peeled and cut into large chunks",
@@ -331,6 +346,7 @@
   {
     "id": 15,
     "name": "Healthy salmon bowl",
+	"types": [ "LUNCH" ],
     "imageResId": "healthy_salmon_bowl",
     "ingredients": [
       "1 tsp rapeseed oil",
@@ -356,6 +372,7 @@
   {
     "id": 16,
     "name": "Creamy pesto & kale pasta",
+	"types": [ "LUNCH" ],
     "imageResId": "creamy_pesto_kale_pasta",
     "ingredients": [
       "1 tbsp rapeseed oil",
@@ -373,6 +390,7 @@
   {
     "id": 17,
     "name": "Creamy salmon, leek & potato traybake",
+	"types": [ "LUNCH" ],
     "imageResId": "creamy_salmon_leek_potato_traybake",
     "ingredients": [
       "250g baby potatoes, thickly sliced",
@@ -394,6 +412,7 @@
   {
     "id": 18,
     "name": "Punjabi partha",
+	"types": [ "LUNCH" ],
     "imageResId": "punjabi_partha",
     "ingredients": [
       "3 aubergines",
@@ -414,6 +433,7 @@
   {
     "id": 19,
     "name": "Smoky steak with Cajun potatoes & spicy slaw",
+	"types": [ "LUNCH" ],
     "imageResId": "smoky_steak_with_cajun_potatoes_spicy_slaw",
     "ingredients": [
       "430g Maris Piper potatoes, cut into 1.5cm chunks",
@@ -437,6 +457,7 @@
   {
     "id": 20,
     "name": "Gnocchi cacio e pepe",
+	"types": [ "LUNCH" ],
     "imageResId": "gnocchi_cacio_e_pepe",
     "ingredients": [
       "300g gnocchi",
@@ -453,6 +474,7 @@
   {
     "id": 21,
     "name": "Pork souvlaki",
+	"types": [ "LUNCH" ],
     "imageResId": "pork_souvlaki",
     "ingredients": [
       "400g lean pork shoulder, cut into 2cm chunks",
@@ -478,6 +500,7 @@
   {
     "id": 22,
     "name": "Feel-good pasta soup",
+	"types": [ "LUNCH" ],
     "imageResId": "feel_good_pasta_soup",
     "ingredients": [
       "1 tbsp olive oil",
@@ -505,6 +528,7 @@
   {
     "id": 23,
     "name": "Prawn tikka masala",
+	"types": [ "LUNCH" ],
     "imageResId": "prawn_tikka_masala",
     "ingredients": [
       "1 large onion, roughly chopped",
@@ -532,6 +556,7 @@
   {
     "id": 24,
     "name": "Bean & halloumi stew",
+	"types": [ "LUNCH" ],
     "imageResId": "bean_halloumi_stew",
     "ingredients": [
       "3 tbsp olive oil",
@@ -555,6 +580,7 @@
   {
     "id": 25,
     "name": "Sausage & kale minestrone",
+	"types": [ "LUNCH" ],
     "imageResId": "sausage_kale_minestrone",
     "ingredients": [
       "1 tbsp vegetable oil",
@@ -580,6 +606,7 @@
   {
     "id": 26,
     "name": "Creamy tofu curry with homemade roti",
+	"types": [ "LUNCH" ],
     "imageResId": "creamy_tofu_curry_with_homemade_roti",
     "ingredients": [
       "400g firm tofu",
@@ -606,6 +633,7 @@
   {
     "id": 27,
     "name": "Spicy tortilla soup",
+	"types": [ "LUNCH" ],
     "imageResId": "spicy_tortilla_soup",
     "ingredients": [
       "2 tbsp vegetable oil",
@@ -635,6 +663,7 @@
   {
     "id": 28,
     "name": "Creamy salmon, leek & potato traybake",
+	"types": [ "LUNCH" ],
     "imageResId": "creamy_salmon_leek_potato_traybake",
     "ingredients": [
       "250g baby potatoes, thickly sliced",
@@ -656,6 +685,7 @@
   {
     "id": 29,
     "name": "Creamy garlic pasta",
+	"types": [ "LUNCH" ],
     "imageResId": "creamy_garlic_pasta",
     "ingredients": [
       "300g tagliatelle (any long pasta will work)",
@@ -677,6 +707,7 @@
   {
     "id": 30,
     "name": "Noodles with crispy tofu",
+	"types": [ "LUNCH" ],
     "imageResId": "noodles_with_crispy_tofu",
     "ingredients": [
       "300g firm tofu, patted dry and sliced into 2cm cubes",
@@ -706,6 +737,7 @@
   {
     "id": 31,
     "name": "Fish pie mac ’n’ cheese",
+	"types": [ "LUNCH" ],
     "imageResId": "fish_pie_mac_n_cheese",
     "ingredients": [
       "650ml milk",
@@ -728,6 +760,7 @@
   {
     "id": 32,
     "name": "Broccoli stem falafel bowl",
+	"types": [ "LUNCH" ],
     "imageResId": "broccoli_stem_falafel_bowl",
     "ingredients": [
       "2 pittas, cut into small triangles",
@@ -771,6 +804,7 @@
   {
     "id": 33,
     "name": "One-pot cheeseburger pasta",
+	"types": [ "LUNCH" ],
     "imageResId": "one_pot_cheeseburger_pasta",
     "ingredients": [
       "1 tbsp olive oil",
@@ -797,6 +831,7 @@
   {
     "id": 34,
     "name": "Meatball & tomato soup",
+	"types": [ "LUNCH" ],
     "imageResId": "meatball_tomato_soup",
     "ingredients": [
       "1½ tbsp rapeseed oil",
@@ -820,6 +855,7 @@
   {
     "id": 35,
     "name": "Black bean & tortilla soup",
+	"types": [ "LUNCH" ],
     "imageResId": "black_bean_tortilla_soup",
     "ingredients": [
       "2 tbsp olive oil",

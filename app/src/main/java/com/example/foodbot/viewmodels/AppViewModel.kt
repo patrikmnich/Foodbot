@@ -1,4 +1,4 @@
-package com.example.foodbot.ui
+package com.example.foodbot.viewmodels
 
 import android.content.Context
 import android.util.Log
@@ -62,10 +62,18 @@ class AppViewModel @Inject constructor(
 
         val foodplayDays = mutableListOf<FoodplanDay>()
         for (i in 0 until 7) {
-            foodplayDays.add(FoodplanDay(
-                i,
-                listOf(recipes.random(), recipes.random(), recipes.random(), recipes.random(), recipes.random()) // TODO: pridat realne recepty a generovanie
-            ))
+            foodplayDays.add(
+                FoodplanDay(
+                    i,
+                    listOf(
+                        recipes.random(),
+                        recipes.random(),
+                        recipes.random(),
+                        recipes.random(),
+                        recipes.random()
+                    ) // TODO: pridat realne recepty a generovanie
+                )
+            )
         }
 
         val timestamp = System.currentTimeMillis()

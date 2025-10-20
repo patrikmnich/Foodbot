@@ -28,9 +28,9 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import com.example.foodbot.database.entities.Recipe
-import com.example.foodbot.ui.AppViewModel
+import com.example.foodbot.viewmodels.AppViewModel
 import com.example.foodbot.ui.FoodplanScreen
-import com.example.foodbot.ui.NewRecipeScreen
+import com.example.foodbot.ui.AddRecipeScreen
 import com.example.foodbot.ui.RecipeDetailScreen
 import com.example.foodbot.ui.RecipesScreen
 import com.example.foodbot.ui.ShoppingListScreen
@@ -38,6 +38,7 @@ import com.example.foodbot.ui.components.FoodbotAppBar
 import com.example.foodbot.ui.components.FoodbotNavigationBar
 import com.example.foodbot.ui.navigation.Destination
 import com.example.foodbot.ui.navigation.topLevelDestinations
+import com.example.foodbot.viewmodels.NewRecipeViewModel
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -117,6 +118,7 @@ fun FoodbotApp(
         val foodplan by viewModel.foodplanState.collectAsState()
         val foodplanRecipe = viewModel.selectedFoodplanRecipeState.collectAsState()
         val searchRecipe = viewModel.selectedSearchRecipeState.collectAsState()
+        val newRecipeViewModel: NewRecipeViewModel = hiltViewModel()
 
         var recipes: List<Recipe> by remember { mutableStateOf(emptyList()) }
 
@@ -168,7 +170,7 @@ fun FoodbotApp(
                         viewModel.setSelectedSearchRecipe(recipe)
                         navController.navigate(Destination.RecipeDetailSearch.name)
                     },
-                    onFabClicked = { navController.navigate(Destination.NewRecipe.name) },
+                    onFabClicked = { navController.navigate(Destination.AddRecipe.name) },
                     modifier = Modifier
                         .fillMaxSize(),
                     context = localizedContext,
@@ -181,9 +183,10 @@ fun FoodbotApp(
                     context = localizedContext,
                 )
             }
-            composable(route = Destination.NewRecipe.name) {
-                NewRecipeScreen(
-                    onAddButtonClicked = { navController.navigate(Destination.NewRecipe.name) },
+            composable(route = Destination.AddRecipe.name) {
+                AddRecipeScreen(
+                    viewModel = newRecipeViewModel,
+                    onAddButtonClicked = { navController.navigate(Destination.AddRecipe.name) },
                     modifier = Modifier.fillMaxHeight(),
                     context = localizedContext,
                 )

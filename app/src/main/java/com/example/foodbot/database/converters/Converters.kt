@@ -2,6 +2,7 @@ package com.example.foodbot.database.converters
 
 import androidx.room.TypeConverter
 import com.example.foodbot.database.entities.Recipe
+import com.example.foodbot.database.model.FoodType
 import com.example.foodbot.database.model.FoodplanDay
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
@@ -17,6 +18,17 @@ class Converters {
     @TypeConverter
     fun toStringList(list: List<String>): String {
         return Gson().toJson(list)
+    }
+
+    @TypeConverter
+    fun fromFoodTypeSet(value: String): Set<FoodType> {
+        val setType = object : TypeToken<Set<FoodType>>() {}.type
+        return Gson().fromJson(value, setType)
+    }
+
+    @TypeConverter
+    fun toFoodTypeSet(set: Set<FoodType>): String {
+        return Gson().toJson(set)
     }
 
     @TypeConverter

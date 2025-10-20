@@ -4,6 +4,7 @@ import android.content.Context
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
+import com.example.foodbot.database.model.FoodType
 import com.google.gson.annotations.SerializedName
 
 @Entity(tableName = Recipe.TABLE_NAME)
@@ -17,6 +18,10 @@ data class Recipe(
     @SerializedName("name")
     val name: String,
 
+    @ColumnInfo(name = "types")
+    @SerializedName("types")
+    val types: Set<FoodType>,
+
     @ColumnInfo(name = "imageResId")
     @SerializedName("imageResId")
     val imageRes: String,
@@ -29,8 +34,7 @@ data class Recipe(
     @SerializedName("steps")
     val steps: List<String>,
 
-    //TODO: pridat kategoriu (ranajky, obed vecera), alergeny alebo
-
+    // TODO: additional features like spicy, veggie..
 ) {
     companion object {
         const val TABLE_NAME = "RECIPES"
@@ -44,7 +48,7 @@ data class Recipe(
 
         fun example(): Recipe {
             val recipe = map.entries.random()
-            return Recipe(0, recipe.key, recipe.value,
+            return Recipe(0, recipe.key, setOf(FoodType.LUNCH), recipe.value,
                 listOf(
                     "2 large sweet potatoes, cut into thin wedges",
                     "1 tbsp rapeseed oil",

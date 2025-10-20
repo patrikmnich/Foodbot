@@ -28,6 +28,14 @@
     <string name="steps">Steps</string>
     <string name="new_recipe">New recipe</string>
     <string name="add_recipe">Add recipe</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="morning_snack">Morning snack</string>
+    <string name="lunch">Lunch</string>
+    <string name="afternoon_snack">Afternoon snack</string>
+    <string name="dinner">Dinner</string>
+    <string name="recipe_name">Recipe name</string>
+    <string name="add_photo">Add photo</string>
+    <string name="add_more">Add more</string>
     <plurals name="cupcakes">
         <item quantity="one">%d cupcake</item>
         <item quantity="other">%d cupcakes</item>
